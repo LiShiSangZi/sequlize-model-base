@@ -1,6 +1,6 @@
 {
   "name": "sequlize-model-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sequlize Model base file. It can generate timestamp in number format.",
   "main": "index.js",
   "repository": "git@github.com:LiShiSangZi/sequlize-model-base.git",
